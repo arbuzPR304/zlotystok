@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item17
+        id = "17"
+        typ = "bar"
+        opis = "Bar Darz Bór. Obiady, śniadania, kawa, herbata, piwo. Każde danie przygotowywane codziennie od podstaw ze świeżych produktów."
+        adres = "Traugutta 60, Złoty Stok"
+        witryna = "http://www.bar-zloty-stok-vkkdh.firmet.pl/"
+
+        />
+
+    <item18
+        id = "18"
+        typ = "bar"
+        adres = "ul. Kłodzka 1, Złoty Stok"
+        opis = "Bar Apetit. Oferuje polską kuchnię.\n\nGodziny otwarcia:\n
+                    Poniedziałek	08:00-21:00\n
+                    Wtorek	08:00-21:00\n
+                    Środa	08:00-21:00\n
+                    Czwartek	08:00-21:00\n
+                    Piątek	08:00-21:00\n
+                    Sobota	08:00-21:00\n
+                    Niedziela	08:00-21:00\n
+        "
+        witryna = "https://pl.tripadvisor.com/Restaurant_Review-g2427164-d7852000-Reviews-Bar_Apetit-Zloty_Stok_Lower_Silesia_Province_Southern_Poland.html"
+
+        />
+
+    <item16
+        id = "16"
+        typ = "bar"
+        opis = "Karczma i Bar w Starej Kuźni.\nKlimat starej kuźni, na ścianach zdjęcia pracującej kopalni złota, stare reklamy. Zapraszamy do baru ze stylowym, otwartym paleniskiem oraz czynnego w sezonie letnim ogródka W barze można też zjeść śniadanie od godziny 9.00.\n
+         \nBar czynny w sezonie:\n\tZimowym 9.00 - 17.00\n\tLetnim (od 1.04 do 31.10) 9.00- 18.00\n\nRestauracja czynna w sezonie:\n\tZimowym (do 30.04.2015) 12.00 - 20.00\n\tLetnim (od 1.05 do 31.10) 11.00 - 21.00\n\n\t\t\tNa terenie restauracji dostępne Wi-Fi"
+        adres = "Złota 7, 57-250 Złoty Stok"
+        witryna = "http://www.kopalniazlota.pl/pl/noclegi/sport-kompleks"
+
+        />
+
+    <item14
+        id = "14"
+        typ = "nocleg"
+        opis = "Ośrodek znajduje się na dużym, ogrodzonym terenie z miejscem na ognisko, kortem tenisowym, boiskiem do piłki plażowej, parkingiem, placem zabaw dla dzieci, dwoma stołami do gry w szachy, chińczyka i w ping-ponga oraz z urządzeniami do ćwiczeń siłowych.\nPokoje wyposażone są w umywalki z zimną i ciepłą wodą. Toalety i prysznice ogólnodostępne znajdują się na korytarzach.\nOczywiście oprócz noclegów oferujemy również pyszne, domowe wyżywienie w naszej stołówce. Na terenie ośrodka Noclegi Na Poddaszu do Państwa dyspozycji jest również billard oraz drink bar."
+        adres = "3-go Maja 10, Zloty Stok\ntel. 694 691 041"
+        witryna = "http://nocleginapoddaszu.pl"
+
+        />
+<!--kk-->
+
+
+    <item13
+        id = "13"
+        typ = "nocleg"
+        opis = "W obiekcie znajduje się wielofunkcyjna hala sportowa oraz siłownia wraz z zapleczem i pełnym wyposażeniem.\nW ofercie znajdują się również noclegi dla osób indywidualnych i grup zorganizowanych w pokojach 2, 3 i wieloosobowych z pełnym węzłem sanitarnym."
+        adres = "Chemików 8, 57-250 Złoty Stok,\ntel. 74 817 55 08"
+        witryna = "http://www.kopalniazlota.pl/pl/noclegi/sport-kompleks"
+
+        />
+
+    <item12
+
+        id = "12"
+        typ = "nocleg"
+        opis = "Historia pensjonatu:\n\n
+        Było to w XVI w. miejsce intensywnych robót górniczych i hutniczych. W dolinie tej znajdowały się kopalnie i huty wydobywające i przetapiające rudę złota.\n
+        W 1884 r. zbudowano lesną gospodę.\n Turystyka w tamtych czasach rozwijała się niezwykle szybko i po uruchomieniu stałej linii dyliżansu restauracja pękała w szwach.\n
+        Turystów ciągle przybywało, a restauracja była zbyt mała na ich potrzeby. Wiosną 1925 r. rozpoczęto rozbudowę pensjonatu.\n
+        Po wojnie obiekt ten służył jako miejce koloni dla dzieci pracowników ze stoczni Stoczni Gdańskiej.\n\nObecnie Złoty Jar:\n\n
+        To nie tylko pensjonat, ale miejsce spotkań, cichy zakątek w górach, pełen dobrej energii i ciepła. Schowany w głębi jaru, otoczony drzewami, oddalony od zgiełku swiata dom, otwarty na każdego podróżnego. "
+        adres = "ul. Złota 24, 57-250 Złoty Stok\ntel. 74 817 51 78"
+        witryna = "http://zlotyjar.pl/"
+
+
+
+        />
+
+    <item11
+        id = "11"
+        typ = "nocleg"
+        opis = "Hotelik posiada 45 miejsc noclegowych w świeżo wyremontowanych i wyposażonych pokojach. Budynek Hoteliku oddalony jest od wszelkich dróg i zabudowań. Na miejscu bezpłatny i bezpieczny parking z całodobowym monitoringiem."
+        adres = "ul. Złota 7, 57-250 Złoty Stok\ntel. 74 817 55 08"
+        witryna = "http://www.kopalniazlota.pl/pl/noclegi/zloty-hotelik-w-kopani-zlota"
+
+        />
+
+    <item15
+        id = "15"
+        typ = "nocleg"
+        opis = "Goście mogą podziwiać widok na miasto i korzystać ze sprzętu do grillowania. Oferta obiektu obejmuje też bezpłatne WiFi i bezpłatny prywatny parking.\nPokoje są wyposażone w czajnik. Każdy z nich obejmuje też prywatną łazienkę. W pokojach znajduje się również telewizor.\nTen obiekt w Złotym Stoku jest także wysoko oceniany ze względu na lokalizację. Goście są z niej bardziej zadowoleni. "
+        adres = "Wojska Polskiego 20, 57-250 Złoty Stok\ntel. 724 622 770"
+        witryna = "http://www.goldstok.pl/"
+
+        />
+
+    <item1
+        id = "1"
+        typ = "atrakcja"
+        opis = "Średniowieczna Osada Górnicza – to bardzo dokładna replika średniowiecznej osady górniczej, na którą składają się urządzenia zbudowane w skali 1:1. Wszystkie urządzenia działają o czym może przekonać się każdy zwiedzający.\nW żadnym miejscu w Europie nie można spotkać drugiej tak dokładnej i bogatej w urządzenia repliki górniczej wioski średniowiecznej.\nDodatkowo w Osadzie Górniczej zwiedzający natrafiają na pełen tajemnic i strachów podziemny tunel, który kończy się wizytą w Chacie złotostockiego Kata. Atrakcja ta nawiązuje do średniowiecznego
+Urzędu Kata w Złotym Stoku jak i do jego zawodu – kat odgrywał ważną rolę przy karaniu m.in. górników, którzy kradli złoto."
+        adres = "Złota 2, 57-250 Złoty Stok\ntel.74 817 61 27"
+        witryna = "http://www.parktechniki.pl/"
+
+
+        />
+
+    <item3
+        id = "3"
+        typ = "atrakcja"
+        opis ="Między niebem a ziemią, w pięknym lesie nad Złotym Potokiem, na terenie ponad 7 hektarów, znajdują się atrakcje zapewniające moc wyjątkowych wrażeń.\nTo niepowtarzalny rodzaj napowietrznego trekingu, którego bazą są przejścia akrobatyczne między drzewami takie jak: balansujące pomosty, przejścia po linie, przejścia siatkowe, powietrzny surfing, skok Tarzana, tyrolki - zjazdy na linie o łącznej długości 1050 metrów oraz wiele innych."
+        adres="ul. Złota, 57-250 Złoty Stok"
+        witryna="http://www.skalisko.eu/"
+        />
+
+    <item2
+        id = "2"
+        typ = "atrakcja"
+        opis = "Ulica Złota to ulica pełna atrakcji poprzedzające Kopalnię.\n\n
+\tEscape Room -  Zamknięci w niewielkiej grupie znajomych, macie godzinę na wydostanie się z jednego z trzech starannie przygotowanych pokoi, kryjących w sobie tajne przejścia, ukryte skrzynie, manualne i elektroniczne zagadki i wiele innych.
+\n\n\tPaintball elektroniczny - który jest całkowicie bezpieczny i bezbolesny. Uczestnicy strzelają do siebie z wiązek laserowych. Kopalnia zachęca do gry w podziemiach  w towarzystwie laserów i dużej ilości dymu.
+\n\n\tWystawa minerałów - Wstęp wolny z ważnym biletem na zwiedzanie Podziemnej Trasy Turystycznej
+\n\n\tIzba Pamięci - W Izbie znajduje się kilka pomieszczeń, które podzielono tematycznie. W „pokoju z rycinami” są eksponaty z terenu miasta: okolicznościowe pamiątki, porcelana, monety z tutejszej mennicy oraz najstarsze widoki Reichenstein. W „izbie górniczej” umieszczono mundury oraz pamiątki związane z lokalnym górnictwem, które ma 1000-letnią tradycję.
+\n\n\tPodziemny spływ łodzią - Podziemny spływ łodzią, stanowi atrakcję dodatkową, z której można skorzystać na terenie Kopalni Złota.
+\n\n\tZłota moneta - Pokaz i wybijanie pamiątkowych monet.
+\n\n\tZłota sztabka - Pokaz i odlewanie pamiątkowych sztabek.
+\n\n\tPłukanie złota - Wypróbuj profesjonalny sprzęt do płukania i znajdź swoje złoto."
+        adres="ul. Złota, 57-250 Złoty Stok"
+        witryna="http://www.kopalniazlota.pl/pl/oferta/dodatkowe-atrakcje"
+        />
+
+    <item19
+        id = "19"
+        typ = "atrakcja"
+        opis="Zapoznanaj się z Podziemną Trasą Turystyczną. W jej skład wchodzi:\n\n\t zwiedzanie Sztolni Gertruda (część muzealna),\n\tChodniku Śmierci,\n\tspotkanie z Gnomem w Chodniku Śmierci,\n\tjedyny w Polsce podziemny wodospad w Sztolni Czarnej.\n\nNależy zaopatrzyć się w ciepłe ubiory, ponieważ temperatura w kopalni
+jest stała i wynosi przez cały rok 7° C.
+"
+        adres="ul., Złota 7, 57-250 Złoty Stok"
+        witryna="http://www.kopalniazlota.pl/pl/oferta/zwiedzanie-kopalni"
+        />
+
+
+
+    <item4
+        id = "4"
+        typ = "zabytek"
+        opis = "Utworzenie kamieniołomu w 1959 r. nastąpiło po decyzji Kolegium Ministerstwa Przemysłu Chemicznego z 27.12.1958 r. dotyczącej zakończenia wielowiekowej eksploatacji przerobu rud arsenowych w Złotym Stoku. Celem zapewnienia pracy górnikom tutejszej kopalni, uruchomiony został kamieniołom łupku łyszczykowego. W początkowym okresie stanowił integralną część Kopalni Arsenu „Złoty Stok” podległej Zjednoczeniu Kopalnictwa Surowców Chemicznych w Warszawie."
+        adres = ""
+        witryna = ""
+        />
+
+    <item5
+        id = "5"
+        typ = "zabytek"
+        opis = "Rynek w Złotym Stoku to niewielki plac położony na pochyłym terenie, co niewątpliwie dodaje mu uroku. Wyłożony jest w dużej mierze starą kostką granitową. Pośrodku rynku postawiony jest budynek Ratusza, a obok skwer i pomnik w postaci lwa, upamiętniający ofiary I wojny światowej z lat 1914-1918. Napisy na pomniku są w języku polskim i niemieckim.\n
+Rynek otoczony jest kamienicami. Niektore z nich pochodzą nawet z XV wieku. W większości są to niewielkie budynki, dwukondygnacyjne. Są też i większe kamienice, a wszystkie zadbane i kolorowe."
+        adres =""
+        witryna =""
+
+        />
+
+    <item6
+        id = "6"
+        typ ="zabytek"
+        opis ="Kościół parafialny p. w. Niepokalanego Poczęcia Najświętszej Panny Marii zbudowany w latach 1875-76, konsekrowany w 1883 roku. Wcześniej znajdował się w tym miejscu kościół p. w. Zwiastowania Najświętszej Marii Panny urządzony, w 1708 roku, w budynku Cesarskiego Urzędu Górniczego. Budowla jednonawowa na planie krzyża z wysoką wieżą i dwoma kaplicami bocznymi zbudowana w stylu neogotyckim. Przed kościołem figura św, Jana Nepomucena z 1786 roku."
+        adres =""
+        witryna =""
+        />
+
+    <item7
+        id = "7"
+        typ = "zabytek"
+        opis ="Maozoleum zbudowała Paulina Güttler z domu Kaufmann, żona Wilhelma Güttlera (1822 - 1874) protoplasty rodziny złotostockich przemysłowców Karla Güttlera (1791 – 1846) i jego małżonki Theresie z domu Albel (1799 – 1836). Ich groby znajdują się na tutejszym cmentarzu. Po śmierci męża Paulina Güttler wykupiła część działki przyległej do cmentarza i na niej zbudowała rodzinny grobowiec. Wzniesiony został na planie zbliżonym do kwadratu, z kamiennych bloczków i nakryty miedzianą kopułą. Do wnętrza mauzoleum wchodzi się przez portyk, którego cztery kolumny podtrzymują tympanom. Po obu stronach łukowo zwieńczonego wejścia wmurowane prostokątne płyty inskrypcyjne. Przed mauzoleum szerokie kamienne schody.
+\nPo zbudowaniu grobowca złożyła w nim została trumna z ciałem jej męża Wilhelma. Paulina zmarła 24 lata później w 1898 r. i pochowana została u jego boku. W mauzoleum pochowani zostali również: syn Karla i Pauliny – Herman zm. 1906 roku oraz syn Hermana Güttlera – Wilhem ( 1884 – 1938), który 15.05.1938 r. został zastrzelony przez nazistów w Hamburgu. Jego ciało przywiezione zostało w cynkowej trumnie do Złotego Stoku i 21.05.1938 r. pochowane w rodzinnym grobowcu. Spoczął obok swojej żony Louisy zm. 7.09.1936 r. w Szwajcarii i pochowanej w mauzoleum 11.09.1938 r."
+        adres =""
+        witryna =""
+        />
+
+    <item8
+        id = "8"
+        typ = "zabytek"
+        opis ="Kościół p. w. św, Trójcy zbudowany w 1583 roku jako kaplica cmentarna przez ewangelików. W latach 1687 - 1698 był ich kościołem parafialnym Później pełnił rolę kaplicy na cmentarzu katolickim. Zbudowany w stylu późno gotyckim był wielokrotnie przebudowywany, po raz ostatni w 1927 roku. Rokokowy ołtarz wewnątrz kościoła pochodzi z 1902 roku. Obok renesansowego portalu zachowały się płyty nagrobne ostatniego opata i przeora kamienieckiego zakonu cystersów."
+        adres =""
+        witryna =""
+        />
+
+    <item9
+        id = "9"
+        typ = "zabytek"
+        opis = "Kościół p.w. św. Krzysztofa, patrona miejscowych górników, zbudowany został w latach 1513 - 1517 (wieża pochodzi z 1543 roku) na miejscu dawnego kościoła miejskiego, istniejącego już w XIV wieku. Odbudowany, po pożarze z 1638 roku, jako kościół parafialny ewangelików (od 1536 roku) zmienił wezwanie na Chrystusa Zbawiciela. Budowla w stylu renesansowym. Wejście pod wieżą z portalem zdobionym herbami Złotego Stoku i księstwa ziębicko-oleśnickiego, w kruchcie za nim znajdują się płyty nagrobne z XVI wieku."
+        adres =""
+        witryna =""
+        />
+
+    <item10
+        id = "10"
+        typ = "zabytek"
+        opis ="W Złotym Stoku i jego okolicach przez setki lat wytwarzano, na bazie miejscowych kopalin, wapno. Pozostałością po jego produkcji są piece, w których wypalano wapno – tzw. wapienniki. Spośród kilkudziesięciu pieców wapienniczych, które działały w mieście i jego okolicach, do dziś w dobrym stanie zachowało się kilka, a wśród nich – wapienniki zakupione przez Mariannę Orańską w połowie XIX w., mające dostarczać wapno do budowy pałacu w Kamieńcu Ząbkowickim, położone przy szosie do Paczkowa. Odrestaurowane, monumentalne kamienne piece wapiennicze przypominają dziś o historii Złotego Stoku."
+        adres =""
+        witryna =""
+        />
+
+</resources>
+
+
+
+<!--szer 1047 wys 500-->

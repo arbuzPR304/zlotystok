@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/atrakcje"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/drawerButton1" />
+        <item
+            android:id="@+id/zabytki"
+            android:icon="@drawable/museum"
+            android:title="@string/drawerButton2" />
+        <item
+            android:id="@+id/szlaki"
+            android:icon="@drawable/hill"
+            android:title="@string/drawerButton3" />
+        <item
+            android:id="@+id/noclegi"
+            android:icon="@drawable/hotel"
+            android:title="@string/drawerButton4" />
+        <item
+            android:id="@+id/bar"
+            android:icon="@drawable/restaurantmenu"
+            android:title="@string/drawerButton5" />
+        <item
+            android:id="@+id/historia"
+            android:icon="@drawable/fairytale"
+            android:title="@string/drawerButton6" />
+    </group>
+
+    <item android:title="@string/drawerLabel1">
+        <menu>
+            <item
+                android:id="@+id/kontakt"
+                android:icon="@drawable/env"
+                android:title="@string/drawerButton8" />
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/exit"
+                android:title="@string/drawerButton7" />
+
+        </menu>
+    </item>
+
+</menu>

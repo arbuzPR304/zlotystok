@@ -1,0 +1,141 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pl.fabrykacodu.kaspero.zlotystok.Activity.Fragments.DescribeFragment"
+    android:layout_margin="0dp"
+    android:padding="0dp">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="0dp"
+        android:padding="0dp">
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="165dp">
+
+            <ImageView
+                app:srcCompat="@drawable/item17"
+                android:id="@+id/imageItem"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_width="wrap_content" />
+        </LinearLayout>
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <TextView
+                    android:text="Opis"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/titleopis"
+                    android:layout_margin="10dp"
+                    android:textSize="30sp"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_marginBottom="5dp" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#c0c0c0"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp" />
+
+                <TextView
+                    android:text="Bar Darz Bór. Obiady, śniadania, kawa, herbata, piwo. Każde danie przygotowywane codziennie od podstaw ze świeżych produktów."
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/opis"
+                    android:layout_margin="10dp"
+                    android:fontFamily="sans-serif-condensed"
+                    android:textSize="20sp"
+
+                    android:textAllCaps="false" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/layoutAdres">
+
+                    <TextView
+                        android:text="Adres"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/adresstitle"
+                        android:layout_margin="10dp"
+                        android:textSize="30sp"
+                        android:fontFamily="sans-serif-condensed"
+                        android:layout_marginBottom="5dp" />
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="2dp"
+                        android:background="#c0c0c0"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp" />
+
+                    <TextView
+                        android:text="Traugutta 60, Złoty Stok, tel. 604085538"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/adres"
+                        android:layout_margin="10dp"
+                        android:fontFamily="sans-serif-condensed"
+                        android:textSize="20sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="15dp">
+
+                    <Button
+                        android:text="Nawiguj"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/nawiguj"
+                        android:layout_weight="1" />
+
+                    <Button
+                        android:text="Witryna"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/witryna"
+                        android:layout_weight="1" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="76dp"
+        app:srcCompat="@drawable/previous"
+        android:id="@+id/back_btn"
+        android:padding="5dp"
+        />
+
+
+</FrameLayout>

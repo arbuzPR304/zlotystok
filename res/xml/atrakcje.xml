@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <atrakcja
+        id = "19"
+        typ = "atrakcja"
+        nazwa="Kopalnia Złota"
+        szerokosc="50.439876"
+        dlugosc="16.874715"/>
+
+    <atrakcja
+        id = "1"
+        typ = "atrakcja"
+        nazwa = "Średniowieczny Park Techniki"
+        szerokosc = "50.444367"
+        dlugosc = "16.879275"
+
+    />
+
+    <atrakcja
+        id = "2"
+        typ =     "atrakcja"
+        nazwa =   "Ulica Złota"
+        szerokosc="50.441516"
+        dlugosc = "16.876013"
+    />
+
+    <atrakcja
+        id = "3"
+        typ =     "atrakcja"
+        nazwa =   "Leśny Park Przygody Skalisko"
+        szerokosc="50.436656"
+        dlugosc = "16.872171"
+    />
+
+    <zabytek
+        id = "4"
+        typ =     "zabytek"
+        nazwa =   "Skalisko"
+        szerokosc="50.436897"
+        dlugosc = "16.872215"
+    />
+
+    <zabytek
+        id = "5"
+        typ =     "zabytek"
+        nazwa =   "Rynek"
+        szerokosc="50.442974"
+        dlugosc = "16.874470"
+    />
+
+    <zabytek
+        id = "6"
+        typ =     "zabytek"
+        nazwa =   "Kościół NMP"
+        szerokosc="50.443570"
+        dlugosc = "16.868533"
+    />
+
+    <zabytek
+        id = "7"
+        typ =     "zabytek"
+        nazwa =   "Mauzoleum Guttlerów"
+        szerokosc="50.445449"
+        dlugosc = "16.875577"
+    />
+
+    <zabytek
+        id = "8"
+        typ =     "zabytek"
+        nazwa =   "Kościół Św. Trójcy"
+        szerokosc="50.444494"
+        dlugosc = "16.875808"
+    />
+
+    <zabytek
+        id = "9"
+        typ =     "zabytek"
+        nazwa =   "Kościół ewangelicki"
+        szerokosc="50.442640"
+        dlugosc = "16.873362"
+    />
+
+    <zabytek
+        id = "10"
+        typ =     "zabytek"
+        nazwa =   "Wapiennik"
+        szerokosc="50.445077"
+        dlugosc = "16.884806"
+        />
+
+    <nocleg
+        id = "11"
+        typ =     "nocleg"
+        nazwa =   "Złoty Hotelik"
+        szerokosc="50.439876"
+        dlugosc = "16.874715"
+    />
+
+    <nocleg
+        id = "12"
+        typ =     "nocleg"
+        nazwa =   "Pensjonat Złoty Jar"
+        szerokosc="50.430489"
+        dlugosc = "16.870367"
+    />
+
+    <nocleg
+        id = "13"
+       typ =     "nocleg"
+       nazwa =   "Sport Kompleks"
+       szerokosc="50.448248"
+       dlugosc = "16.876600"
+    />
+
+    <nocleg
+        id = "14"
+        typ =     "nocleg"
+        nazwa =   "Noclegi Na Poddaszu"
+        szerokosc= "50.445914"
+        dlugosc = "16.878889"
+    />
+
+    <nocleg
+        id="15"
+        typ =     "nocleg"
+        nazwa =   "Gold Stok"
+        szerokosc="50.443342"
+        dlugosc = "16.872215"
+    />
+
+    <bar
+        id="16"
+        typ =     "bar"
+        nazwa =   "Karczma w Starej Kuźni"
+        szerokosc="50.439876"
+        dlugosc = "16.874715"
+    />
+
+    <bar
+        id="17"
+        typ =     "bar"
+        nazwa =   "Zajazd Darz Bór"
+        szerokosc="50.448591"
+        dlugosc = "16.895961"
+    />
+
+    <bar
+        id="18"
+        typ =     "bar"
+        nazwa =   "Bar Apettit"
+        szerokosc="50.445147"
+        dlugosc = "16.874587"
+    />
+</resources>

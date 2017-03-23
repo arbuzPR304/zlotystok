@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item
+        id = "1"
+        photoMin = "hist1"
+        photoBig = "hist1a"
+        tytul = "Nazwa Miasta"
+        opis = "Dzieje Złotego Stoku były tak zmienne jak zmienne były burzliwe losy całego Dolnego Śląska, a historia miasta była zawsze ściśle związana z rozwojem górnictwa złota, a potem arsenu. Upadek górnictwa pociągał zawsze za sobą upadek miasta.\n\nBadacze niemieccy podają również, że począwszy od 933 roku pierwsi germańscy (lub frankońscy) poszukiwacze złota miejscowość tę nazwali RYCHSTEYN i stąd wzięła się późniejsza nazwa REICHENSTEIN (bogaty kamień).\n\nW kronikach czeskich przez setki lat Złoty Stok znany jest pod nazwą RYCHLEBY związaną chyba z wymienioną poprzednio nazwą RYCHSTEYN (dotąd jeszcze czeskie pasmo Gór Złotych nosi nazwę Rychlebskych Hor).\n\nOd 1945 roku utrwaliła się dopiero nazwa ZŁOTY STOK.\n\n"
+        />
+
+    <item
+        id = "2"
+        photoMin = "hist2"
+        photoBig = "hist2a"
+        tytul = "Średniowiecze"
+        opis = "Średniowieczna osada górnicza powstała w związku z wydobywaniem w okolicy złota. Najstarsze dokumenty potwierdzające prawa miejskie Złotego Stoku datuje się na 1334 rok, jednak nie wiadomo, kiedy faktycznie je uzyskał.\nW 1273 r. Henryk IV Probus zezwolił cystersom z Kamieńca na prowadzenie tutaj robót górniczych. W kolejnych latach miasto należało do Piastów śląskich i wchodziło w skład księstwa ziębickiego.\nW 1358 zostało wykupione przez Bolka II – księcia świdnickiego.\nPo śmierci Agnieszki Habsburżanki żony Bolka II w 1392 roku wraz będącym jej oprawą wdowią księstwem świdnicko-jaworskim zostało połączone z Koroną Czeską jako wiano bratanicy Bolka II, księżniczki Anny, żony króla czeskiego i cesarza niemieckiego Karola IV."
+        />
+
+    <item
+        id = "3"
+        photoMin = "hist3"
+        photoBig = "hist3a"
+        tytul = "Wit Stworz i Złoty Stok"
+        opis = "W XV wieku udział w tutejszej kopalni wykupił znany krakowski rzeźbiarz Wit Stwosz. Pieniądze, które otrzymał za wykonanie ołtarza w Kościele Mariackim w Krakowie, miały zostać według rodziny Fugerrów (głównych udziałowców) podwojone, a nawet potrojone.\nNiestety wyczerpywanie się złotonośnych złóż doprowadziło artystę do bankructwa. Wit Stwosz w desperacji zdecydował się na fałszerstwo weksla, za co został osadzony w więzieniu we Wrocławiu, sądzony był natomiast w Norymberdze, gdzie uznano jego winę. Za sfałszowanie weksla trzymano artystę w lochu oraz publicznie piętnowano na obu policzkach i skroni."
+        />
+
+    <item
+        id = "4"
+        photoMin = "hist4"
+        photoBig = "hist4a"
+        tytul = "Mennica"
+        opis = "W 1507 r. przeniesiono tu z Ząbkowic Śląskich mennicę książęcą i zaczęto bić złote dukaty. Przyniosło to wzrost rangi miasta i wymierne korzyści finansowe. W drugiej dekadzie XVI w. zaczęły tu inwestować europejskie spółki górniczo-hutnicze. W tym czasie ze swoich prawie 200 kopalni Złoty Stok dostarczał około 8% całej europejskiej produkcji złota.\n
+\nBył to budynek z cegły i kamienia z dachem pokrytym dachówką otoczony kamiennym murem. Główne wejście na wewnętrzny dziedziniec prowadziło przez korytarz zamknięty z obu stron bramami. Z piwnicy mennicy prowadził wąski i niski tunel do krypty pod kościołem. Kościół z grubymi murami i wysoko umieszczonymi oknami mógł stanowić również bezpieczne schronienie przed rabusiami.\n
+ "
+        />
+
+    <item
+        id = "5"
+        photoMin = "hist5"
+        photoBig = "hist5a"
+        tytul= "Smutny czas"
+        opis = "Za intensywnym rozwojem wydobycia nie szedł jednak równie intensywny postęp techniczny, a rabunkowa gospodarka i maksymalne nastawienie na zyski doprowadziły do wielu tragicznych katastrof górniczych. Jedną z największych było zawalenie się głównego szybu w sztolni 'Złoty Osioł', głębokiego na 72 m. Zginęło wtedy 59 górników. Zawał nigdy nie został usunięty i nigdy też nie odnaleziono szczątków ofiar. Tragedia 'Złotego Osła' była początkiem złej passy, która doprowadziła do wycofania się spółki Fuggerów z dalszych inwestycji w Złotym Stoku.
+\n\nWspomnieć w tym miejscu należy, że złoto ze Złotego Stoku ma znaczący udział w historii świata. Fuggerowie wspierali swym złotem królową hiszpańską Izabelę, która mogła dzięki temu sfinansować wyprawę Krzysztofa Kolumba, zakończoną odkryciem Ameryki.
+\n\nSławę kopalniom złotostockim przyniósł pierwszy na świecie odstrzał skał przy pomocy czarnego prochu strzelniczego (1612 r.). Zła passa jednak trwała przez kolejne lata. Liczne katastrofy górnicze, pożary i zarazy, z których największa pochłonęła 1100 ofiar, znacząco zrujnowały miejscowość. Po zniszczeniach wojny trzydziestoletniej (1618-1648) miasto chyliło się już ku upadkowi.
+\n\nPrzełom przyniosło dopiero osiedlenie się w Złotym Stoku Hansa Schärffenberga - aptekarza i alchemika. Po wielu eksperymentach udało mu się opracować proces odzyskiwania arszeniku z rud arsenowych. Złoty Stok na ponad 100 lat stał się głównym światowym dostawcą arszeniku. Krótkowzroczna polityka potomków Schärffenberga doprowadziła jednak do wyczerpania się zapasów rudy i upadku kopalni oraz huty."
+        />
+
+    <item
+        id = "6"
+        photoMin = "hist6"
+        photoBig = "hist6a"
+        tytul= "Odrodzenie górnictwa"
+        opis = "Górnictwo złota reaktywowano dopiero po wojnach prusko-austryjackich. W 1848 r. opracowana została tańsza metoda produkcji złota, polegająca na chlorowaniu wyprażonej rudy i wyługowy­waniu czystego metalu ze związków chlorkowych. Metodę tę zastosował w Złotym Stoku Wilhelm Güttler, który po przerobieniu całego surowca, w 1883 r. wykupił wszystkie tereny górnicze. Własność tę utrzymywali jego spadkobiercy aż do 1945 r. Właśnie dzięki ich staraniom, w 1900 r. wybudowano linię kolejową, łączącą Złoty Stok z Kamieńcem Ząbkowickim, co niewątpliwie przyczyniło się do znacz­nego rozwoju przemysłowego miasta. Jego spadkobiercy utrzymywali tę własność aż do 1945 r. Za ich rządów wprowadzono wiele nowinek technicznych, a wśród nich kolejkę elektryczną, transportującą urobek udostępnioną dziś do zwiedzania sztolnią 'Gertruda'."/>
+
+    <item
+        id = "7"
+        photoMin = "hist7"
+        photoBig = "hist7a"
+        tytul= "Rodzina Güttlerów"
+        opis = "\tHistoria złotostockiego przemysłu związana jest nierozerwalnie z rodziną Güttlerów. Rodziną, która jak żadna inna w dziejach Złotego Stoku miała wpływ na jego rozwój. Dzisiaj przypomina o niej już tylko zdewastowane mauzoleum na starym cmentarzu.\n\n\t
+Pierwszym z rodziny przemysłowców był Karl Güttler, ktory prowadził fabrykę prochu w Mąkolnie. Po śmierci ojca fabrykę odziedziczył syn Wilhelm Güttler.\n\n\t
+Wilhelmowi sprzyjała mu korzystna koniunktura na proch i lonty. Potrzebowały go kamieniołomy dostarczające kamień do budowy dróg i linii kolejowych, a także powstające wtedy kopalnie węgla w Zagłębiu Wałbrzyskim i na Górnym Śląsku. To one stały się wkrótce głównym odbiorcą prochu i lontów. Kupowało je też w dużych ilościach wojsko.\n\n\t
+Przez następne lata rodzina rozwijała przemysl w Złotym Stoku. Obchodząc uroczyście, 18 czerwca 1895 roku, 200 - lecie fabryki prochów w Mąkolnie rodzina Güttlerów szczyciła się posiadaniem 3 fabryk produkujących: proch czarny i bezdymny, lont prochowy oraz amunicję myśliwską i wojskową. Miała też sieć 15 magazynów prochu na terenie całych Niemiec.\n\n\t
+Rodzina posiadała kopalnie i zakłady do 1945 roku. Po wojnie Polacy przejęli zakłady Güttlerów łącznie z ich niemiecką załogą. Na początku stycznia 1946 roku w zakładzie pracowało 285 Polaków i 247 Niemców. Niemieccy pracownicy współpracowali lojalnie z kierującymi zakładem polskimi inżynierami, przekazując im pełną dokumentację techniczną i ucząc polskich robotników jak należy obsługiwać urządzenia i prowadzić procesy technologiczne."/>
+
+    <item
+        id = "8"
+        photoMin = "hist8"
+        photoBig = "hist8"
+        tytul= "Po II wojnie światowej"
+       opis ="Działania II wojny światowej nie przyniosły zniszczeń w kopalni, a po jej zakończeniu Niemcy przekazali całość władzom polskim w stanie nienaruszonym. Pracę w kopalni podjęli górnicy, sprowadzeni tu z Górnego Śląska. W laboratorium przez pewien czas pracował jeszcze niemiecki pracownik, który szkolił nowych użytkowników w prawidłowej obsłudze urządzeń. W 1948 r. wszczęto poszukiwania nowych złóż.
+W 1962 roku z niewyjaśnionych dotąd przyczyn 'odgórnym zarządzeniem' zakończono działalność górniczo-hutniczą w Złotym Stoku.
+\nDecyzja ta budzi poważne wątpliwości, gdyż kopalnia przynosiła urobek roczny na poziomie 20-30 kg złota, dopiero w 1961 roku spadł nagle, z niewyjaśnionych przyczyn do 7 kg. Kopalnia na skutek naturalnej cyrkulacji wody, której już nie odpompowywano, została w krótkim czasie całkowicie zatopiona.Na przestrzeni całego okresu wydobywczego, tj. w ciągu ponad 700 lat, wydobyto w Złotym Stoku ok. 16 ton czystego złota."/>
+</resources>

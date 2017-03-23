@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item
+        id = "1"
+        photoMin = "indeks1"
+        photoBig = "indeks1a"
+        tytul = "Borówkowa"
+        opis = "Borówkowa 900 m n.p.m -  szczyt na granicy polsko-czeskiej w Górach Złotych wznoszący się ponad Przełęczą Lądecką, z którego roztacza się szeroka panorama na ziemię kłodzką po polskiej stronie, a po czeskiej Morawy i Śląsk a poprzez wąski pas państwa czeskiego na rozległe obszary Pogórza Sudeckiego na obszarze Polski w tym Paczków, Otmuchów, Kamieniec Ząbkowicki.
+Po 1945 r., a przed ustaleniem obecnej polskiej nazwy, szczyt nazywany był również Wrzesiec, Wrzosiec lub Wrzosówka. Nazwa ta pozostała ostatecznie jednak przy wsi Wrzosówka leżącej na jej stoku. Jest jednym z najwyższych szczytów pasma Gór Złotych."
+        dojscie = "Na szczyt prowadzi:\n
+\nżółta ścieżka krajoznawcza biegnąca z Jawornika Wielkiego
+\n\nczerwona ścieżka krajoznawcza biegnąca pętlą do Lądka-Zdroju
+\n\nszlak turystyczny zielony polski zielony z zamku Karpień do Złotego Stoku
+\n\nszlak turystyczny niebieski czeski niebieski ze wsi Travná
+\n\nszlak turystyczny czerwony czeski czerwony z Javorníka do Bilej Vody"
+
+
+        />
+
+    <item
+        id = "2"
+        photoMin = "indeks2"
+        photoBig = "indeks2a"
+        tytul = "Wysoki Kamień"
+        opis =  "Po czeskiej stronie warty odwiedzenia jest punkt widokowy Wysoki Kamień (Vysoky Kamen, 691 m.n.p.m.). To skalne wzniesienie znajduje się w okolicach wsi Horni Hostice, będącej czeskim odpowiednikiem podpaczkowskiej wsi Gościce. Roztacza się z niego przepiękna panorama Gór Rychlebskich oraz Przedgórza Paczkowskiego.\nNa szczycie Wysokiego Kamienia \nznajduje się 30 metrowa skała."
+        dojscie = "Na Wysoki Kamień prowadzą dwa znakowane szlaki:
+\n\nczeski żółty szlak ze skrzyżowania w Hornich Hosticach
+\n\nczeski czerwony szlak z Javornika do Bilej Vody"/>
+
+    <item
+        id = "3"
+        photoMin = "indeks3"
+        photoBig = "indeks3a"
+        tytul = "Jawornik Wielki"
+        opis = "Jawornik Wielki - zwany również Świętą Górą. Szczyt w paśmie Gór Złotych. Wznosi się na wysokość 872 m n.p.m. Najwyższy szczyt w zachodniej i północnej części Gór Złotych. Ze szczytu (przy dobrej pogodzie) można zobaczyć Przedgórze Sudeckie i Nizinę Śląską. Szczyt jest wyraźnie widoczny z okolic Paczkowa, Kamieńca Ząbkowickiego, Otmuchowa.
+Cały masyw zbudowany ze skał metamorficznych należących do metamorfiku Lądka i Śnieżnika. W rejonie szczytu kilka skałek.Okolice szczytu. Las występujący w okolicach szczytu jest mieszany. Możemy spotkać tu świerki, modrzewie i buki."
+        dojscie = "Szlak czerwony prowadzi do Lądka Zdrój. Jednak lekkim łukiem omija szczyt, ale można z niego zboczyć i wyjść na górę. Długość szlaku mierzona z rynku w Złotym Stoku na szczyt Jawornika Wielkiego wynosi ok 6km."
+
+
+        />
+    <item
+        id = "4"
+        photoMin = "indeks4"
+        photoBig = "indeks4a"
+        tytul = "Zalew Paczkowski"
+        opis = "Jezioro Paczkowskie – zbiornik retencyjny powstały w wyniku zalania spiętrzonymi wodami Nysy Kłodzkiej stawów będących wyrobiskami żwirowni, złożony z dwóch zbiorników, Kozielno i Topola , zlokalizowany jest na granicy województwa dolnośląskiego i województwa opolskiego. Jego podstawowa funkcja to ochrona przeciwpowodziowa. Żwirownia w dalszym ciągu funkcjonuje wydobywając żwir z obszaru jeziora. Spiętrzanie wody w zbiorniku wykorzystywane jest także do celów energetycznych, u wylotu każdego z nich znajduje się elektrownia wodna. Pojemność całkowita zbiornika wynosi 44,9 mln m³. "
+        dojscie = "Zalew Paczkowski znajduje się w pobliskim Paczkowie."
+
+
+        />
+
+    <item
+        id = "5"
+        photoMin = "indeks5"
+        photoBig = "indeks5a"
+        tytul = "Pustelnia na Krzyżowej Górze"
+        opis = "Na Krzyżową Górę trafimy idąc z Rynku obok mennicy książąt ziębickich, pod górę do końca ulicy Sienkiewicza.Tu opuszczamy szlak i stromą urokliwą jaworową aleją dochodzimy do I-szej stacji kalwarii, otaczającej kiedyś pustelnię przy kaplicy św. Anny.\nNazwa Krzyżowej Góry związana jest zapewne z pracą górników. Zalegały tu bogate złoża złotonośnej rudy.Pozostały po nich dziesiątki zapadlisk w miejscach istniejących przed wiekami kopalń. Największy lej powstał tam gdzie znajdował się szyb Himmelfahrt 'Wniebowzięcie' czynny jeszcze na początku XX wieku.\n
+Przechodząc codziennie przez tą górę do swych kopalń, górnicy modlili się o szczęśliwy powrót do domu, pod stojącym tu zawsze krzyżem. Prymitywne kopalnie, drążone wokół źle obudowanego szybu, zawalały się często grzebiąc na zawsze pracujących w nich górników. Koledzy i rodziny upamiętniali ich śmierć stawianymi krzyżami.
+Wraz ze zwiększaniem się ilości kopalń, szczególnie w XVI wieku, przybywało też krzyży. Nic więc dziwnego, że do dominującego nad Złotym Stokiem wzniesienia (489m n.p.m.) przylgnęła nazwa  Krzyżowa Góra. Z czasem obok krzyża postawiono skromną drewnianą kapliczkę i zbudowano stacje drogi krzyżowej."
+        dojscie = "Z Rynku pod górę ulicą Sienkiewicza"
+
+
+        />
+
+
+</resources>
+

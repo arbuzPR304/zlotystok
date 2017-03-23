@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ZlotyStok</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ustawienia</string>
+    <string name="action_help">Pomoc</string>
+
+    <string name="drawerButton1">Atrakcje</string>
+    <string name="drawerButton2">Zabytki</string>
+    <string name="drawerButton3">Szlaki Turystyczne</string>
+    <string name="drawerButton4">Noclegi</string>
+    <string name="drawerButton5">Restauracje</string>
+    <string name="drawerButton6">Historia Miasta</string>
+
+    <string name="drawerLabel1">Komunikacja</string>
+
+    <string name="drawerButton7">Wyjście</string>
+    <string name="drawerButton8">Kontakt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
